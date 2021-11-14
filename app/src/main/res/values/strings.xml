@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GenQR</string>
+    <string name="main_text_logIn">Click here to LogIn with google</string>
+    <string name="sign_out">Sign out</string>
+</resources>
